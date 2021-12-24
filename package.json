@@ -1,7 +1,7 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "Homework 14",
+  "description": "Homework #14",
   "main": "server.js",
   "engines": {
     "node": "17.2.0",
