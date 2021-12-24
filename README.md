@@ -4,6 +4,8 @@ This project was for my UCSD coding bootcamp.
 
 ## Application Preview
 
+https://user-images.githubusercontent.com/85325106/147318662-64adb26f-0195-444c-a0c6-2b9eb3845565.mp4
+
 ## Repository
 
 [GitHub Repo](https://github.com/latommyla/Tech-Blog)
