@@ -6,7 +6,7 @@ This project was for my UCSD coding bootcamp.
 
 https://user-images.githubusercontent.com/85325106/147318662-64adb26f-0195-444c-a0c6-2b9eb3845565.mp4
 
-## Repository
+## Repository 
 
 [GitHub Repo](https://github.com/latommyla/Tech-Blog)
 
@@ -80,8 +80,10 @@ To install this project, simply download the zip file or clone the SSH key to yo
 
 ## Contact 
 
-- [My Github](https://github.com/latommyla)
-- [My Email](mailto:tommyl.dmd@gmail.com)
+- [Portfolio](https://latommyla.github.io/TL-Portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/tommymla/)
+- [Github](https://github.com/latommyla)
+- [Email](mailto:tommyl.dmd@gmail.com)
 - [Instagram](https://instagram.com/latommyla)
 
 
